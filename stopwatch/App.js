@@ -6,7 +6,7 @@ import StopwatchContainer from "./stopwatch/stopwatch.container";
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Welcome to Codersera</Text>
+      <Text style={styles.title}>This is a timer for 8803.</Text>
 
       <StopwatchContainer />
 
